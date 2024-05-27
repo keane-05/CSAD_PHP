@@ -16,6 +16,7 @@
     $tax = (7/100)/$total;
     echo round($total,2). "<br>";  //round - rounds of the value to a certain amount
     echo round($tax, 2);
+    // adding a table from code below
     echo "<table>  
     <th> Items </th>
     <th >Price </th>
